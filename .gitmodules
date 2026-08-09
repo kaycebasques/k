@@ -4,3 +4,6 @@
 [submodule "technicalwriting.dev"]
 	path = technicalwriting.dev
 	url = git@github.com:kaycebasques/technicalwriting.dev
+[submodule "templates"]
+	path = templates
+	url = git@github.com:kaycebasques/templates.git
