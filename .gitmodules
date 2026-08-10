@@ -1,8 +1,8 @@
 [submodule "kaycebasques.net"]
-	path = kaycebasques.net
+	path = kb
 	url = git@github.com:kaycebasques/kaycebasques.net.git
 [submodule "technicalwriting.dev"]
-	path = technicalwriting.dev
+	path = tw
 	url = git@github.com:kaycebasques/technicalwriting.dev
 [submodule "templates"]
 	path = templates
