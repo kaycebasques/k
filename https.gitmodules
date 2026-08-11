@@ -1,0 +1,6 @@
+[submodule "kaycebasques.net"]
+	path = kb
+	url = https://github.com/kaycebasques/kaycebasques.net.git
+[submodule "technicalwriting.dev"]
+	path = tw
+	url = https://github.com/kaycebasques/technicalwriting.dev.git
