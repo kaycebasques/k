@@ -21,7 +21,7 @@ jobs:
       - name: build
         run: |
           cd ${{github.workspace}}
-          mv https.gitmodules .gitmodules
+          mv .gitmodules.https .gitmodules
           git submodule update --init --recursive
           cd tw
           git fetch origin

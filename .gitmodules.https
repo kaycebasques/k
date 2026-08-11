@@ -4,3 +4,6 @@
 [submodule "technicalwriting.dev"]
 	path = tw
 	url = https://github.com/kaycebasques/technicalwriting.dev.git
+[submodule "templates"]
+	path = templates
+	url = https://github.com/kaycebasques/templates.git
